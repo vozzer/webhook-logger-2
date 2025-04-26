@@ -16,7 +16,7 @@ app.get('/log', async (req, res) => {
 **Referrer:** ${referrer}`
     });
 
-    res.send('<h1>Big L, kalbo.</h1>');
+    res.send('<h1>mega L, kalbo.</h1>');
 });
 
 const port = process.env.PORT || 3000;
